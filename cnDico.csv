@@ -1,0 +1,2318 @@
+,host_response_time,host_response_rate,host_is_superhost,host_identity_verified,property_type,room_type,bathrooms_text,instant_bookable,minimum_nights,maximum_nights
+0,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+3,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+4,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+5,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+6,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+7,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+8,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+9,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+10,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+11,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+12,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+13,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+14,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+15,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+16,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+17,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+18,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+19,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+20,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+21,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+22,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+23,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+24,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+25,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+26,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+27,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+28,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+29,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+30,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+31,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+32,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+33,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+34,No rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Alto,Alto
+35,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+36,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+37,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+38,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+39,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+40,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+41,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+42,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,Limitados,f,Bajo,Bajo
+43,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+44,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+45,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+46,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+47,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+48,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+49,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+50,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+51,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+52,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+53,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+54,No rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+55,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+56,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+57,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+58,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+59,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+60,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+61,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+62,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+63,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+64,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+65,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+66,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+67,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+68,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+69,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+70,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+71,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+72,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+73,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+74,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+75,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+76,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+77,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+78,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+79,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+80,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+81,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+82,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+83,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+84,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+85,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+86,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+87,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+88,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+89,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+90,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+91,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+92,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+93,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+94,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+95,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+96,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+97,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+98,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+99,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+100,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+101,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+102,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+103,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+104,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+105,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+106,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+107,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+108,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+109,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+110,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+111,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+112,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+113,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+114,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+115,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+116,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+117,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+118,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+119,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+120,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+121,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+122,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+123,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+124,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+125,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+126,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+127,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+128,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+129,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+130,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+131,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+132,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+133,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+134,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+135,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+136,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+137,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+138,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+139,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+140,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+141,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+142,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+143,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+144,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+145,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+146,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+147,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+148,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+149,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+150,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+151,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+152,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+153,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+154,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+155,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+156,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+157,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+158,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+159,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+160,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+161,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+162,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+163,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+164,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+165,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+166,Rapida,Respuesta alta,f,f,No Entire,No Entire,Limitados,f,Bajo,Alto
+167,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+168,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+169,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+170,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+171,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+172,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+173,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+174,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+175,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+176,Rapida,Respuesta alta,t,f,No Entire,No Entire,Limitados,f,Alto,Bajo
+177,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+178,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+179,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+180,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+181,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+182,Rapida,Respuesta alta,f,f,No Entire,No Entire,Limitados,f,Bajo,Alto
+183,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+184,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+185,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+186,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+187,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+188,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+189,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+190,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+191,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+192,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+193,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+194,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+195,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+196,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+197,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+198,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+199,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+200,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+201,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+202,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+203,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+204,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+205,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+206,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+207,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+208,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+209,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+210,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+211,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+212,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+213,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+214,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+215,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+216,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+217,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+218,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+219,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+220,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+221,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+222,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+223,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+224,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+225,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+226,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Bajo,Bajo
+227,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+228,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+229,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+230,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+231,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+232,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+233,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+234,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+235,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Alto,Alto
+236,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+237,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+238,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+239,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+240,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+241,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+242,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+243,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+244,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+245,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+246,No rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+247,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+248,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+249,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+250,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+251,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+252,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+253,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+254,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+255,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+256,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+257,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+258,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+259,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+260,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+261,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+262,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+263,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+264,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+265,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+266,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+267,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+268,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+269,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+270,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+271,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+272,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+273,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+274,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+275,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+276,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+277,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+278,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+279,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+280,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+281,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+282,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+283,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+284,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+285,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+286,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+287,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+288,Rapida,Respuesta alta,f,f,No Entire,No Entire,Limitados,f,Bajo,Bajo
+289,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+290,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+291,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+292,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+293,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+294,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+295,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+296,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+297,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+298,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+299,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+300,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+301,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+302,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+303,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+304,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+305,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+306,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+307,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+308,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+309,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+310,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+311,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+312,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+313,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+314,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+315,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+316,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+317,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+318,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+319,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+320,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+321,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+322,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+323,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+324,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+325,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+326,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+327,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+328,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+329,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+330,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+331,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+332,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+333,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+334,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+335,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+336,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+337,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+338,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+339,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+340,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+341,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+342,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+343,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+344,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+345,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+346,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+347,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+348,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+349,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+350,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+351,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+352,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+353,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+354,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+355,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+356,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+357,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+358,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+359,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+360,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+361,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+362,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+363,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+364,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+365,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+366,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+367,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+368,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+369,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+370,No rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+371,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+372,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+373,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+374,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+375,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+376,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+377,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+378,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+379,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+380,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+381,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+382,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+383,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+384,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+385,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+386,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+387,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+388,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+389,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+390,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+391,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+392,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+393,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+394,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+395,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+396,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+397,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+398,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+399,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+400,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+401,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+402,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Bajo
+403,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+404,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+405,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+406,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+407,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+408,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+409,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+410,No rapida,Respuesta alta,f,f,No Entire,No Entire,Limitados,f,Alto,Alto
+411,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+412,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+413,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+414,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+415,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+416,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+417,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+418,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+419,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+420,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+421,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+422,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+423,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+424,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+425,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+426,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+427,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+428,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+429,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+430,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+431,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+432,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+433,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+434,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+435,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+436,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+437,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+438,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+439,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+440,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Alto,Alto
+441,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+442,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+443,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+444,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+445,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+446,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+447,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+448,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+449,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+450,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+451,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+452,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+453,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+454,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+455,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+456,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+457,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+458,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+459,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Alto,Alto
+460,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+461,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+462,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+463,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+464,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+465,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+466,No rapida,Respuesta alta,f,t,No Entire,Entire home/apt,Limitados,t,Alto,Alto
+467,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+468,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+469,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+470,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+471,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+472,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+473,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+474,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+475,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+476,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+477,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+478,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+479,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+480,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Alto
+481,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+482,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+483,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+484,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+485,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+486,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+487,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+488,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+489,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+490,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+491,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+492,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+493,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+494,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+495,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+496,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+497,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+498,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+499,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Alto
+500,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+501,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+502,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+503,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+504,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+505,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+506,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+507,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+508,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+509,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+510,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+511,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+512,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+513,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+514,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+515,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+516,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+517,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+518,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+519,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+520,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+521,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+522,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+523,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+524,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+525,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+526,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+527,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+528,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+529,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+530,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+531,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+532,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+533,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+534,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+535,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+536,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+537,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+538,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Alto
+539,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+540,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+541,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+542,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+543,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+544,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+545,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+546,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+547,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+548,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+549,No rapida,Respuesta alta,f,f,No Entire,No Entire,No limitados,f,Alto,Alto
+550,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+551,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+552,No rapida,Respuesta alta,f,f,No Entire,No Entire,No limitados,f,Alto,Alto
+553,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+554,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+555,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+556,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+557,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Bajo
+558,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+559,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+560,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+561,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+562,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+563,No rapida,Respuesta baja,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+564,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+565,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+566,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+567,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+568,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+569,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+570,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+571,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+572,No rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+573,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+574,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+575,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+576,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+577,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+578,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+579,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+580,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+581,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+582,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+583,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+584,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+585,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+586,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+587,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+588,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+589,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+590,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+591,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+592,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+593,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+594,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+595,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+596,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+597,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+598,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+599,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+600,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+601,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+602,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+603,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+604,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+605,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+606,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+607,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+608,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+609,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+610,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+611,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+612,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+613,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+614,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+615,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+616,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+617,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+618,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+619,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+620,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+621,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+622,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+623,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+624,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+625,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+626,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+627,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+628,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+629,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+630,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+631,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+632,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+633,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+634,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+635,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+636,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+637,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+638,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+639,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+640,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+641,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+642,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+643,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+644,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+645,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+646,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+647,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+648,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+649,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+650,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+651,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+652,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+653,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+654,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+655,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+656,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+657,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+658,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+659,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+660,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+661,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+662,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+663,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+664,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+665,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+666,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+667,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+668,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+669,No rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+670,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+671,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+672,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+673,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+674,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+675,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+676,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+677,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+678,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+679,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+680,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+681,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+682,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+683,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+684,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+685,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+686,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+687,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+688,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+689,Rapida,Respuesta alta,t,t,No Entire,Entire home/apt,No limitados,t,Bajo,Alto
+690,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+691,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+692,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+693,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+694,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+695,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+696,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+697,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+698,Rapida,Respuesta alta,t,t,No Entire,Entire home/apt,No limitados,t,Bajo,Alto
+699,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+700,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+701,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+702,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+703,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+704,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+705,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+706,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+707,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+708,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+709,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+710,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+711,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+712,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+713,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+714,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+715,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+716,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+717,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+718,Rapida,Respuesta alta,t,f,No Entire,No Entire,No limitados,f,Bajo,Bajo
+719,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+720,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+721,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Alto,Alto
+722,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+723,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+724,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+725,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+726,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+727,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+728,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+729,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+730,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+731,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+732,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+733,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+734,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+735,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+736,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+737,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+738,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+739,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+740,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+741,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+742,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+743,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+744,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+745,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+746,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+747,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+748,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+749,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+750,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+751,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+752,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+753,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+754,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+755,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+756,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+757,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+758,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+759,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+760,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+761,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+762,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+763,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+764,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+765,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+766,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+767,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+768,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+769,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+770,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Bajo
+771,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+772,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+773,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+774,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+775,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+776,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+777,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+778,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Alto,Alto
+779,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+780,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+781,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+782,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+783,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+784,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+785,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+786,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+787,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+788,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+789,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+790,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+791,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+792,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+793,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+794,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+795,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+796,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+797,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+798,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+799,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+800,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+801,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+802,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+803,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+804,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+805,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+806,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+807,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+808,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+809,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+810,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+811,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+812,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+813,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+814,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+815,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+816,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+817,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+818,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+819,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+820,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+821,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+822,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+823,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+824,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+825,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+826,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+827,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+828,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+829,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+830,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+831,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+832,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+833,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+834,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+835,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+836,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+837,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+838,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+839,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+840,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+841,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+842,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+843,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+844,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+845,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+846,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+847,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+848,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+849,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+850,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+851,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+852,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+853,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+854,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+855,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+856,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+857,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+858,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+859,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+860,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+861,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+862,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+863,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+864,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+865,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+866,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+867,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+868,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+869,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+870,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+871,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Bajo,Bajo
+872,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+873,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+874,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+875,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+876,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+877,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+878,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+879,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+880,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+881,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+882,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+883,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+884,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Alto
+885,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+886,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Bajo,Bajo
+887,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+888,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+889,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+890,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+891,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+892,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+893,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+894,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+895,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+896,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+897,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+898,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+899,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+900,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+901,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+902,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+903,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+904,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+905,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+906,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+907,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+908,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+909,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+910,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+911,No rapida,Respuesta baja,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+912,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+913,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+914,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+915,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+916,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+917,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+918,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+919,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+920,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+921,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+922,Rapida,Respuesta alta,t,t,No Entire,Entire home/apt,No limitados,t,Bajo,Alto
+923,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+924,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+925,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+926,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+927,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+928,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+929,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+930,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+931,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+932,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+933,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+934,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+935,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+936,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+937,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+938,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+939,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+940,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+941,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+942,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+943,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+944,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+945,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+946,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+947,Rapida,Respuesta alta,t,t,No Entire,Entire home/apt,No limitados,t,Bajo,Alto
+948,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+949,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+950,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+951,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+952,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+953,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+954,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+955,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+956,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+957,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+958,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+959,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+960,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+961,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+962,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+963,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+964,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+965,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+966,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+967,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+968,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+969,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+970,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+971,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+972,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+973,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+974,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+975,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+976,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+977,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+978,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+979,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+980,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+981,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+982,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+983,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+984,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+985,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+986,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+987,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+988,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+989,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+990,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+991,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+992,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+993,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+994,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+995,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+996,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+997,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+998,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+999,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1000,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1001,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1002,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1003,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1004,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1005,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1006,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1007,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1008,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1009,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1010,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1011,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1012,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Bajo,Alto
+1013,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1014,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1015,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1016,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1017,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1018,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1019,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1020,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1021,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+1022,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1023,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1024,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1025,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1026,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1027,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1028,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1029,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1030,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1031,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1032,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1033,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1034,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1035,Rapida,Respuesta alta,t,t,No Entire,Entire home/apt,No limitados,t,Bajo,Alto
+1036,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1037,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1038,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1039,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1040,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1041,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+1042,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1043,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1044,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1045,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1046,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1047,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1048,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1049,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1050,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1051,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1052,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1053,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1054,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1055,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1056,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1057,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1058,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1059,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1060,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1061,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1062,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1063,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1064,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1065,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1066,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1067,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1068,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1069,Rapida,Respuesta alta,t,t,No Entire,Entire home/apt,No limitados,t,Bajo,Alto
+1070,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1071,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1072,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1073,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1074,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1075,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1076,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1077,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1078,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1079,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1080,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1081,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1082,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+1083,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1084,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1085,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1086,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1087,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1088,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1089,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1090,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1091,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1092,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1093,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1094,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1095,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1096,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1097,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1098,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1099,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1100,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1101,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1102,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1103,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1104,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1105,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1106,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1107,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1108,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1109,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1110,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1111,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1112,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1113,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1114,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1115,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1116,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1117,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1118,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1119,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1120,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1121,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1122,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1123,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1124,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1125,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1126,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1127,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1128,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1129,Rapida,Respuesta alta,f,f,No Entire,No Entire,Limitados,f,Alto,Bajo
+1130,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1131,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+1132,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1133,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1134,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1135,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1136,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1137,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1138,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1139,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1140,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1141,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1142,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1143,No rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1144,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1145,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1146,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1147,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1148,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1149,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1150,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1151,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1152,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1153,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1154,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1155,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1156,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1157,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1158,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1159,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1160,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1161,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1162,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1163,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1164,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1165,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1166,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1167,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1168,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1169,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1170,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+1171,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1172,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1173,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1174,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1175,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1176,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Alto,Alto
+1177,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1178,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1179,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1180,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1181,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1182,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1183,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1184,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Bajo
+1185,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Bajo
+1186,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1187,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1188,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1189,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1190,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1191,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1192,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1193,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+1194,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Bajo
+1195,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1196,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1197,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1198,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1199,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1200,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1201,No rapida,Respuesta alta,f,f,No Entire,No Entire,No limitados,f,Alto,Alto
+1202,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+1203,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1204,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1205,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1206,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1207,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1208,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+1209,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1210,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1211,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1212,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1213,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1214,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1215,No rapida,Respuesta alta,f,f,No Entire,No Entire,No limitados,f,Alto,Alto
+1216,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1217,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1218,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1219,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1220,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1221,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1222,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1223,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1224,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+1225,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1226,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Alto,Alto
+1227,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1228,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1229,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1230,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1231,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1232,No rapida,Respuesta alta,f,f,No Entire,No Entire,No limitados,f,Alto,Alto
+1233,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1234,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1235,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1236,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1237,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1238,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1239,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1240,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1241,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1242,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1243,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1244,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1245,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1246,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1247,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1248,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1249,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1250,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1251,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Bajo,Bajo
+1252,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1253,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1254,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1255,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1256,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1257,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1258,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1259,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1260,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1261,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1262,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1263,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1264,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1265,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1266,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1267,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+1268,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1269,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1270,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1271,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1272,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1273,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1274,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1275,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1276,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1277,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1278,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1279,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1280,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1281,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1282,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1283,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1284,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1285,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1286,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1287,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1288,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1289,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1290,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1291,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1292,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1293,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1294,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1295,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1296,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1297,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+1298,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1299,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1300,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1301,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1302,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1303,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1304,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1305,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1306,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1307,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1308,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Alto,Bajo
+1309,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1310,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1311,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+1312,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1313,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1314,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1315,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1316,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1317,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1318,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1319,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1320,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1321,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,Limitados,f,Alto,Alto
+1322,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1323,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1324,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1325,No rapida,Respuesta baja,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1326,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1327,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1328,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1329,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1330,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1331,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1332,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+1333,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1334,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1335,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1336,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+1337,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+1338,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1339,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1340,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1341,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1342,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1343,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1344,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1345,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1346,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1347,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1348,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+1349,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+1350,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1351,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1352,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1353,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1354,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1355,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1356,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1357,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1358,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1359,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+1360,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+1361,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+1362,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1363,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1364,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1365,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1366,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1367,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1368,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+1369,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1370,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1371,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1372,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1373,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1374,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1375,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1376,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1377,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1378,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1379,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1380,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1381,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1382,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1383,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1384,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1385,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1386,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1387,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+1388,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1389,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1390,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Bajo,Alto
+1391,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1392,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1393,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1394,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1395,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1396,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1397,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1398,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1399,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+1400,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1401,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1402,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1403,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1404,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1405,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1406,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1407,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1408,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1409,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1410,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1411,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1412,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1413,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+1414,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1415,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1416,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1417,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1418,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1419,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1420,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1421,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1422,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1423,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1424,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1425,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1426,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1427,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+1428,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1429,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1430,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1431,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1432,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,Limitados,t,Alto,Alto
+1433,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1434,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1435,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1436,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1437,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1438,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1439,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1440,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1441,No rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+1442,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Bajo
+1443,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1444,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1445,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1446,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1447,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1448,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1449,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1450,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1451,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1452,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1453,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1454,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1455,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1456,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1457,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1458,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1459,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1460,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1461,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1462,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1463,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1464,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1465,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1466,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1467,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1468,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1469,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1470,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1471,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1472,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1473,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+1474,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1475,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1476,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1477,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1478,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1479,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1480,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1481,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1482,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1483,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1484,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1485,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1486,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1487,Rapida,Respuesta alta,t,t,No Entire,Entire home/apt,No limitados,t,Bajo,Alto
+1488,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1489,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1490,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1491,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1492,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1493,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1494,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+1495,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+1496,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1497,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+1498,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1499,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1500,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1501,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+1502,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1503,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1504,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+1505,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1506,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1507,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1508,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1509,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1510,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1511,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1512,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1513,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1514,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1515,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1516,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1517,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1518,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1519,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1520,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1521,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1522,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1523,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1524,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1525,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1526,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1527,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1528,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1529,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1530,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1531,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,Limitados,t,Bajo,Alto
+1532,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1533,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1534,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1535,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1536,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1537,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1538,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1539,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1540,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1541,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1542,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1543,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1544,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1545,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1546,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1547,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1548,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1549,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1550,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1551,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1552,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1553,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1554,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1555,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1556,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1557,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1558,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1559,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1560,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1561,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1562,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1563,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1564,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1565,Rapida,Respuesta alta,t,f,No Entire,No Entire,Limitados,t,Bajo,Bajo
+1566,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1567,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1568,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1569,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1570,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1571,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1572,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1573,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1574,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1575,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+1576,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1577,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1578,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1579,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1580,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1581,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1582,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+1583,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1584,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1585,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1586,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1587,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1588,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1589,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1590,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1591,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1592,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1593,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+1594,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1595,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1596,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1597,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1598,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1599,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1600,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1601,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1602,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1603,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1604,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1605,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1606,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1607,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+1608,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+1609,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+1610,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1611,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1612,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1613,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1614,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1615,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1616,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1617,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1618,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1619,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1620,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1621,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1622,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1623,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1624,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1625,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1626,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1627,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1628,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1629,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1630,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1631,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1632,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1633,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1634,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1635,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1636,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1637,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1638,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1639,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1640,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1641,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1642,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1643,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1644,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1645,Rapida,Respuesta alta,t,f,No Entire,No Entire,Limitados,f,Alto,Alto
+1646,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1647,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1648,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1649,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1650,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+1651,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1652,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1653,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1654,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1655,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1656,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Bajo,Bajo
+1657,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1658,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1659,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1660,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1661,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1662,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1663,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1664,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+1665,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1666,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1667,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1668,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+1669,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+1670,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+1671,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1672,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1673,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1674,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1675,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1676,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1677,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1678,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1679,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1680,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1681,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1682,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1683,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1684,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1685,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1686,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1687,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1688,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1689,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1690,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1691,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1692,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1693,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1694,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1695,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1696,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1697,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1698,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1699,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1700,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1701,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1702,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1703,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1704,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1705,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1706,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1707,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1708,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1709,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1710,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1711,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1712,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1713,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1714,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1715,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1716,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1717,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1718,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1719,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Bajo
+1720,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1721,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1722,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1723,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1724,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1725,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1726,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1727,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1728,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1729,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1730,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1731,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+1732,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1733,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1734,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1735,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1736,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1737,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1738,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1739,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1740,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1741,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1742,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1743,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1744,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Alto,Bajo
+1745,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Bajo
+1746,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1747,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1748,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1749,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1750,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1751,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1752,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1753,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1754,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1755,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,Limitados,f,Alto,Alto
+1756,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1757,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1758,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+1759,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1760,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1761,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1762,No rapida,Respuesta alta,f,f,No Entire,No Entire,Limitados,f,Alto,Bajo
+1763,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1764,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1765,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1766,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1767,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1768,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+1769,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1770,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+1771,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1772,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1773,Rapida,Respuesta alta,f,f,No Entire,No Entire,Limitados,f,Bajo,Bajo
+1774,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1775,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1776,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1777,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1778,Rapida,Respuesta alta,t,f,No Entire,No Entire,No limitados,f,Bajo,Bajo
+1779,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1780,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1781,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1782,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1783,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1784,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1785,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1786,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1787,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1788,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1789,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1790,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1791,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1792,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1793,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1794,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1795,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1796,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1797,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1798,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1799,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1800,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1801,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1802,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1803,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1804,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1805,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1806,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1807,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1808,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1809,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1810,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1811,No rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1812,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1813,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1814,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1815,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1816,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1817,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1818,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1819,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1820,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1821,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1822,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1823,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1824,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1825,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1826,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1827,No rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1828,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1829,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1830,No rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+1831,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+1832,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1833,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1834,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+1835,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1836,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1837,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1838,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Bajo
+1839,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1840,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1841,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1842,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1843,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1844,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1845,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1846,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1847,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1848,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+1849,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1850,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1851,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1852,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1853,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1854,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1855,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1856,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1857,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1858,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1859,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1860,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1861,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1862,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1863,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1864,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1865,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1866,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1867,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1868,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1869,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1870,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1871,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+1872,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1873,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1874,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1875,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1876,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1877,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1878,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1879,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1880,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1881,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1882,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1883,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1884,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1885,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1886,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1887,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1888,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1889,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+1890,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1891,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1892,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1893,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1894,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1895,No rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Alto,Alto
+1896,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1897,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1898,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1899,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1900,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1901,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1902,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1903,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1904,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1905,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1906,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1907,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1908,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1909,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1910,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1911,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1912,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1913,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1914,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1915,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1916,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1917,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1918,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1919,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1920,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1921,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+1922,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1923,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1924,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1925,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1926,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1927,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1928,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1929,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1930,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1931,Rapida,Respuesta alta,t,f,No Entire,No Entire,No limitados,f,Alto,Alto
+1932,Rapida,Respuesta alta,t,f,No Entire,No Entire,No limitados,f,Alto,Alto
+1933,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1934,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1935,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1936,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1937,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1938,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1939,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+1940,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1941,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1942,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1943,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1944,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1945,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1946,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1947,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1948,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+1949,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1950,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1951,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1952,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1953,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1954,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1955,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1956,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1957,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1958,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1959,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1960,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1961,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1962,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1963,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1964,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1965,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1966,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1967,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1968,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+1969,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1970,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1971,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1972,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1973,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1974,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1975,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1976,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1977,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+1978,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1979,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1980,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+1981,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+1982,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+1983,Rapida,Respuesta alta,t,t,No Entire,Entire home/apt,No limitados,f,Alto,Alto
+1984,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1985,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1986,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1987,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+1988,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1989,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1990,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1991,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1992,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1993,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1994,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1995,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1996,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1997,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1998,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+1999,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+2000,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+2001,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+2002,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2003,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2004,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2005,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,Limitados,f,Bajo,Alto
+2006,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2007,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2008,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2009,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2010,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2011,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2012,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2013,No rapida,Respuesta alta,f,f,No Entire,No Entire,No limitados,t,Alto,Alto
+2014,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2015,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2016,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+2017,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2018,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2019,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2020,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2021,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+2022,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2023,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2024,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+2025,Rapida,Respuesta alta,f,f,No Entire,No Entire,No limitados,f,Alto,Alto
+2026,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2027,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2028,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+2029,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2030,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+2031,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2032,No rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+2033,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+2034,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2035,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2036,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2037,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2038,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2039,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2040,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2041,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2042,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2043,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2044,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2045,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2046,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+2047,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+2048,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2049,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2050,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2051,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2052,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2053,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2054,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+2055,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+2056,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+2057,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+2058,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+2059,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2060,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2061,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2062,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2063,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2064,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2065,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2066,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2067,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2068,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2069,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2070,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+2071,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2072,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2073,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2074,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2075,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2076,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2077,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2078,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2079,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2080,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+2081,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+2082,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2083,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2084,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2085,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2086,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2087,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2088,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2089,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2090,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2091,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2092,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2093,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2094,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2095,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2096,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2097,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2098,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Bajo,Alto
+2099,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2100,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2101,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2102,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Bajo,Alto
+2103,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2104,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2105,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2106,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2107,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2108,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2109,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2110,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2111,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2112,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2113,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2114,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2115,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2116,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2117,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2118,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2119,No rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Alto,Alto
+2120,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2121,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2122,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2123,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2124,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2125,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2126,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2127,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2128,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2129,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2130,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2131,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2132,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2133,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2134,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2135,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2136,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2137,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2138,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2139,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2140,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2141,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2142,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2143,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2144,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2145,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2146,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2147,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2148,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2149,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2150,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2151,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2152,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2153,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+2154,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2155,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2156,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2157,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2158,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2159,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2160,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2161,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2162,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2163,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2164,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2165,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2166,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2167,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+2168,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2169,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2170,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2171,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2172,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2173,Rapida,Respuesta alta,t,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2174,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2175,Rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2176,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2177,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2178,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2179,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2180,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2181,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2182,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2183,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2184,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2185,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+2186,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+2187,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2188,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+2189,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2190,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2191,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2192,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2193,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2194,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2195,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2196,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2197,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2198,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+2199,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2200,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2201,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2202,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2203,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2204,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2205,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2206,Rapida,Respuesta alta,t,f,No Entire,No Entire,Limitados,t,Alto,Bajo
+2207,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Bajo
+2208,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Alto
+2209,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Alto
+2210,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,t,Alto,Bajo
+2211,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2212,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+2213,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2214,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Bajo,Alto
+2215,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Bajo,Alto
+2216,Rapida,Respuesta alta,t,t,No Entire,No Entire,No limitados,f,Alto,Bajo
+2217,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2218,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2219,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2220,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2221,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Bajo,Bajo
+2222,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2223,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2224,Rapida,Respuesta alta,t,f,No Entire,No Entire,Limitados,f,Bajo,Alto
+2225,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2226,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2227,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2228,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2229,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2230,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2231,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2232,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2233,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2234,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2235,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2236,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2237,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2238,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2239,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2240,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2241,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2242,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2243,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2244,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2245,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2246,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2247,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2248,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2249,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2250,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2251,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2252,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2253,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,Limitados,f,Alto,Alto
+2254,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2255,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2256,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2257,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2258,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2259,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2260,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2261,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,t,Bajo,Bajo
+2262,No rapida,Respuesta baja,f,f,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2263,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2264,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2265,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2266,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Bajo,Bajo
+2267,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2268,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2269,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2270,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2271,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2272,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2273,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2274,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2275,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2276,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2277,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2278,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2279,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2280,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2281,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2282,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2283,No rapida,Respuesta baja,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2284,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2285,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2286,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2287,No rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+2288,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2289,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2290,Rapida,Respuesta alta,f,t,No Entire,No Entire,No limitados,f,Alto,Alto
+2291,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2292,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Bajo
+2293,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2294,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2295,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Bajo
+2296,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2297,No rapida,Respuesta alta,f,t,No Entire,Entire home/apt,No limitados,t,Alto,Alto
+2298,No rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2299,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2300,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Bajo,Bajo
+2301,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,t,Bajo,Bajo
+2302,Rapida,Respuesta alta,t,t,No Entire,No Entire,Limitados,f,Bajo,Alto
+2303,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2304,Rapida,Respuesta alta,f,t,No Entire,No Entire,Limitados,f,Alto,Alto
+2305,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2306,Rapida,Respuesta alta,f,f,No Entire,No Entire,No limitados,f,Alto,Alto
+2307,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,t,Bajo,Alto
+2308,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Alto
+2309,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2310,No rapida,Respuesta alta,f,f,Entire Place,Entire home/apt,No limitados,f,Alto,Bajo
+2311,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2312,Rapida,Respuesta alta,t,t,Entire Place,Entire home/apt,Limitados,f,Alto,Alto
+2313,No rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
+2314,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,t,Alto,Bajo
+2315,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Bajo,Alto
+2316,Rapida,Respuesta alta,f,t,Entire Place,Entire home/apt,No limitados,f,Alto,Alto
